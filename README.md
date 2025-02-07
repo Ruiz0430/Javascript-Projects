@@ -7,7 +7,7 @@ This repo serves as a collection of Javascript capstone projects both completed 
 
 ## Projects
 
-### hospitalClass.js
+- ### hospitalClass.js
 
 #### Description
 hospitalClass.js serves as a project to practice and help better understand classes. The hospitalEmployee class acts as the parent class that creates hospital employee objects. The Nurse class extends from the parent class to create Nurse objects.
