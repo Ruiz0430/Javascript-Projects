@@ -14,7 +14,7 @@ hospitalClass.js serves as a project to practice and help better understand clas
 
 #### Visual(s)
 
-### Roadmap
+#### Roadmap
 - [ ] Add a Doctor child class
 - [ ] Add a nurse/doctor assigning function
 
