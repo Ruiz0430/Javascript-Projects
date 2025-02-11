@@ -25,6 +25,7 @@ hospitalClass.js serves as a project to practice and help better understand clas
 magic8Ball.js is a simple program that stores the users username and then allows the user to ask a question. Using switch statements the "magic 8 Ball" responds with a random preset response
 
 #### Visual(s)
+<img width="977" alt="Screenshot 2025-02-11 at 5 23 54 PM" src="https://github.com/user-attachments/assets/b357cb73-1f13-4686-9f5f-305d059c02e4" />
 
 #### Roadmap
 - [ ] Add prompts to ask for and save name
@@ -33,10 +34,11 @@ magic8Ball.js is a simple program that stores the users username and then allows
 
 - ### mediaLibraryBuilder.js
 
-  #### Description
-  The mediaLibraryBuilder.js project is similar to the hospitalClass.js project as it is a parent class with child classes. The Book and Movie class extend the Media class and allows the user to add instances of movies and books as Media objects.
+#### Description
+The mediaLibraryBuilder.js project is similar to the hospitalClass.js project as it is a parent class with child classes. The Book and Movie class extend the Media class and allows the user to add instances of movies and books as Media objects.
 
 #### Visual(s)
+<img width="977" alt="Screenshot 2025-02-11 at 5 29 14 PM" src="https://github.com/user-attachments/assets/de9e1136-660c-458a-82da-5fb9c027ee78" />
 
 #### Roadmap
 - [ ] Add more instances
@@ -49,6 +51,7 @@ magic8Ball.js is a simple program that stores the users username and then allows
 raceDay.js uses a randomizer to assign each racer a random number. The program is assuming the racer signed up early and is between the ages of 14 and 70. Depending on the racer's age, multiple if and else statements determines the racers race time.
 
 #### Visual(s)
+<img width="977" alt="Screenshot 2025-02-11 at 5 31 16 PM" src="https://github.com/user-attachments/assets/86f0a195-432b-4dca-9c02-f47d44487313" />
 
 #### Roadmap
 - [ ] Add prompts to ask for and save name
@@ -61,6 +64,7 @@ raceDay.js uses a randomizer to assign each racer a random number. The program i
 schoolClass.js defines a School class and child classes, PrimarySchool and HighSchool which extend it further. This allows for declared instances of both PrimarySchool and Highschool which are teachers from the respective classes 
 
 #### Visual(s)
+<img width="977" alt="Screenshot 2025-02-11 at 5 32 49 PM" src="https://github.com/user-attachments/assets/b2810717-910e-43c9-96c2-e903bc75c825" />
 
 #### Roadmap
 - [ ] Add database to manage teachers/substitutes
